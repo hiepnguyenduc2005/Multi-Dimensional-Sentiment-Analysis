@@ -8,9 +8,11 @@ Traditional sentiment analysis often limits its scope to detecting positive or n
 
 ## Key Results <!--- do not change this line -->
 
-1. Development of a Multi-Dimensional Sentiment Analysis Model: Achieved an accuracy of 0.86 and an F1-score of 0.85, indicating robust performance across varied emotional states.
-2. Implementation of Advanced Machine Learning Techniques: Utilized algorithms such as Support Vector Machines, Naive Bayes, Random Forests, and k-Nearest Neighbors to classify emotional content effectively.
-3. Comprehensive Dataset Usage: Employed diverse datasets, including the "Sentiment Analysis Word Lists" and "Emotion Dataset for Emotion Recognition Tasks" from Kaggle, to train and test the models.
+1. **Development of a Multi-Dimensional Sentiment Analysis Model:** Achieved an accuracy of 0.86 and an F1-score of 0.85, indicating robust performance across varied emotional states.
+2. **Implementation of Advanced Machine Learning Techniques:** Utilized algorithms such as Support Vector Machines, Naive Bayes, Random Forests, and k-Nearest Neighbors to classify emotional content effectively.
+3. **Comprehensive Dataset Usage:** Employed diverse datasets, including the "Sentiment Analysis Word Lists" and "Emotion Dataset for Emotion Recognition Tasks" from Kaggle, to train and test the models.
+
+![Confusion Matrix - Random Forest Classifier](image-2.png)
 
 
 ## Methodologies <!--- do not change this line -->
@@ -27,6 +29,10 @@ The project combined several machine learning techniques to analyze sentiment an
 
 - [Sentiment Analysis Word Lists Dataset by *Prajwal Kanade*](https://www.kaggle.com/datasets/prajwalkanade/sentiment-analysis-word-lists-dataset)
 - [Emotion Dataset for Emotion Recognition Tasks by *Parul Pandey*](https://www.kaggle.com/datasets/parulpandey/emotion-dataset)
+
+![Sentiment Analysis Word Lists Dataset by *Prajwal Kanade*](image-1.png)
+![Emotion Dataset for Emotion Recognition Tasks by *Parul Pandey*](image.png)
+
 
 ## Technologies Used <!--- do not change this line -->
 
