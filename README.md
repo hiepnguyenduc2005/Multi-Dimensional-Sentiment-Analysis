@@ -8,7 +8,7 @@ Traditional sentiment analysis often limits its scope to detecting positive or n
 
 ## Key Results <!--- do not change this line -->
 
-1. **Development of a Multi-Dimensional Sentiment Analysis Model:** Achieved an accuracy of 0.86 and an F1-score of 0.85, indicating robust performance across varied emotional states.
+1. **Development of a Multi-Dimensional Sentiment Analysis Model:** Achieved an accuracy of 0.8605 and an F1-score of 0.8587, indicating robust performance across varied emotional states.
 2. **Implementation of Advanced Machine Learning Techniques:** Utilized algorithms such as Support Vector Machines, Naive Bayes, Random Forests, and k-Nearest Neighbors to classify emotional content effectively.
 3. **Comprehensive Dataset Usage:** Employed diverse datasets, including the "Sentiment Analysis Word Lists" and "Emotion Dataset for Emotion Recognition Tasks" from Kaggle, to train and test the models.
 
